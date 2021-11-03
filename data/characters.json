@@ -1,0 +1,34 @@
+{
+  "personajes": [
+    {
+      "id": 1,
+      "nombre": "Naruto Uzumaki",
+      "descripcion": "El protagonista de la serie del manga y anime Naruto y Naruto Shippūden. Él es un joven de la Aldea escondida entre las Hojas, hijo del Cuarto Hokage, Minato Namikaze y su esposa Kushina Uzumaki, además de ser la actual Reencarnación de Asura Ōtsutsuki. Es miembro del Equipo Kakashi junto a Sakura Haruno y Sasuke Uchiha y, además, era el Jinchūriki de la mitad Yang de Kurama hasta que le fue extraído por Madara Uchiha y el más reciente de la mitad Yin de Kurama, además posee parte del Chakra de las otras Bestias con Cola, convirtiéndose en un Jinchūriki para cada uno de las bestias, además de poseer el Poder del Sabio de los Seis Caminos, y por éstas razones se lo ha nombrado como el pilar humano del poder del Diez Colas. Finalmente recibiría la otra mitad de Kurama, unificándose con su otra mitad en el interior de éste. Actualmente es el Séptimo Hokage (七代目火影, Nanadaime Hokage: que significa Séptima Sombra del Fuego) de la Aldea de la Hoja, cumpliendo su sueño, así como también el esposo de Hinata Hyūga y padre de Boruto Uzumaki y Himawari Uzumaki.",
+      "imagen": "https://static.wikia.nocookie.net/doblaje/images/7/79/Naruto-Shippuden-PNG-File.png/revision/latest?cb=20180819151446&path-prefix=es"
+    },
+    {
+      "id": 2,
+      "nombre": "Kakashi Hatake",
+      "descripcion": "Kakashi Hatake (はたけ　カカシ Hatake Kakashi) es un Jōnin de la Aldea Escondida entre las Hojas, ex-ANBU y el líder del Equipo 7. Es conocido mundialmente por su uso del Sharingan, lo que le valió el apodo de Kakashi el Ninja que Copia (コピー忍者のカカシ,Kopi Ninja no Kakashi) y Kakashi del Sharingan (写輪眼のカカシ, Sharingan no Kakashi). Fue el capitán de la Tercera División de la Gran Alianza Shinobi. Después de los acontecimientos de la Cuarta Guerra Mundial Shinobi, Kakashi se convirtió en el Sexto Hokage (六代目火影,Rokudaime Hokage; que significa Sexta Sombra del Fuego) de la Aldea de la Hoja. ",
+      "imagen": "https://static.wikia.nocookie.net/doblaje/images/4/4d/Mt1AZJ1.png/revision/latest?cb=20190619010144&path-prefix=es"
+    },
+    {
+      "id": 3,
+      "nombre": "Jiraiya",
+      "descripcion": "Jiraiya (自来也, Jiraiya) fue uno de los legendarios Sannin junto con Tsunade y Orochimaru, quienes fueron entrenados por el Tercer Hokage. Escribió una popular serie de libros para adultos, llamada ICHA ICHA, por esto y entre otras muchas razones, Naruto lo llama Sabio Pervertido (エロ仙人, Ero-sennin). También fue conocido como el Sabio Sapo (虾蟇仙人, Gama Sennin), gracias a sus invocaciones de sapos y por la habilidad de entrar en el Modo Sabio. En su protector tenía el kanji Aceite (油, Abura) como símbolo del Monte Myōboku Jiraiya tuvo una muerte heróica a manos de su pupilo Nagato cuando se infiltró en la Aldea Oculta de la Lluvia intentando recabar información sobre el líder de Akatsuki. Su muerte no fue en vano del todo ya que pudo descifrar el secreto detrás de las habilidades de Pain y alertar sobre ello a la Aldea de la Hoja.",
+      "imagen": "https://static.wikia.nocookie.net/doblaje/images/5/54/419852-jiraiya_gamer.png/revision/latest?cb=20160407024215&path-prefix=es"
+    },
+    {
+      "id": 4,
+      "nombre": "Itachi Uchiha",
+      "descripcion": "Itachi Uchiha (うちはイタチ, Uchiha Itachi) era el hermano mayor de Sasuke Uchiha. Fue un prodigioso shinobi de Konohagakure infiltrado en la organización ANBU como un doble espía. Después de masacrar al Clan Uchiha, se unió a Akatsuki donde su compañero asignado fue Kisame Hoshigaki, en el anime su primer compañero fue Jūzō Biwa. Llevaba el anillo Escarlata (朱, Shu) en el dedo anular derecho.",
+      "imagen": "https://static.wikia.nocookie.net/doblaje/images/4/44/Itachi_Uchiha_NS.png/revision/latest?cb=20130809162600&path-prefix=es"
+    },
+    {
+      "id": 5,
+      "nombre": "Pain",
+      "descripcion": "Nagato (長門, Nagato), mejor conocido como Pain (ペイン, Pein), era uno de los más poderosos shinobi, y el líder reconocido de Akatsuki y de Amegakure. Todos los miembros de Akatsuki se referían a él como “Líder”, excepto Konan quien lo llamaba por su nombre, Pain. Llevaba el anillo Cero (零, Rei) en el dedo pulgar derecho. También era usuario del dōjutsu legendario, el Rinnegan, quien fue dado por Madara Uchiha antes de su muerte e implantado en Nagato cuando sólo era un niño. En su estadía en la organización trabajaba con Konan y recibía órdenes de Obito desde las sombras.",
+      "imagen": "https://static.wikia.nocookie.net/doblaje/images/2/2e/Pain_ght.png/revision/latest?cb=20141109172338&path-prefix=es"
+    }
+  ]
+}
